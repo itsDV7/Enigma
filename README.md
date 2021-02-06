@@ -1,2 +1,2 @@
 # Enigma Simulator
-Creating an Enigma Encoder/Decoder to practice C and Python.
+Creating an Enigma Encoder/Decoder in C.
